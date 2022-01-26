@@ -1,4 +1,4 @@
-"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+"spider": "https://raw.fastgit.org/catvod/CatVodTVSpider/master/jar/custom_spider.jar?raw=true",
 
 {"sites":[
 {"key":"csp_Aidi","name":"爱迪(爬虫)","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":0,"filterable":1},
