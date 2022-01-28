@@ -2422,6 +2422,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider": "https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/S_custom_spider.jar",
+    "spider": "https://raw.fastgit.org/CoachYun/jiekou/main/S_custom_spider.jar?raw=true",
     "wallpaper": "http://p7.qhimg.com/bdm/0_0_100/t0124a9113f71c381cf.jpg"
 }
